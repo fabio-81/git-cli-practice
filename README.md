@@ -17,3 +17,8 @@ Git show abc123.
 in my case:
  git show 17ac160ff802e73a0251604d092d24ca4166a165
 or git show --abbrev-commit 17ac160
+
+Assuming that you are currently within a Git repository, write the command (or commands) that will display the ID and commit message for the 3 most recent commits.
+
+
+Git log -n3
