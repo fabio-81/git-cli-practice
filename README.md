@@ -4,7 +4,7 @@ Git status
 
 Assuming that you are currently within a Git repository, write the command (or commands) that will cause the file 'hello-world.txt' to be committed.
 
-git add hello-world.txt followed by
+git add hello-world.txt followed by   (I think it should be README.md)typo?
 git commit -m "hello-world
 
 Assuming that you are currently within a Git repository, write the command (or commands) that will display any uncommitted changes made to the file named 'README.md'.
@@ -22,3 +22,7 @@ Assuming that you are currently within a Git repository, write the command (or c
 
 
 Git log -n3
+
+Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
+
+Git fetch
